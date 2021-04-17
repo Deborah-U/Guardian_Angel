@@ -21,11 +21,11 @@ require('dotenv').config();
 
 // Set your emoji "awards" here
 const emojiMap = {
-  'FLIRTATION': '😻',
-  'TOXICITY': '☣️',
-  'INSULT': '🤬',
+  'FLIRTATION': '💋',
+  'TOXICITY': '🧨',
+  'INSULT': '👊',
   'INCOHERENT': '🤪',
-  'SPAM': '📩',
+  'SPAM': '🐟',
 };
 
 // Store some state about user karma.
