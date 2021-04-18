@@ -4,7 +4,7 @@ require("@tensorflow/tfjs");
 
 const client = new Discord.Client();
 const toxicity = require("@tensorflow-models/toxicity");
-const threshold = 0.2;
+const threshold = 0.8;
 let model;
 
 
